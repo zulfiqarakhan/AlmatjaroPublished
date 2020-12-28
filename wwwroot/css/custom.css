@@ -1,0 +1,12 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+
+.sub-menu-container .menu-item > .menu-link {
+	padding: 2px 1px;
+	font-weight: 500;
+}
